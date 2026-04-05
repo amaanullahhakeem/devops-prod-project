@@ -16,12 +16,12 @@ This project is a simple Node.js application built to demonstrate a complete Dev
 
 # ⚙️ Features
 
-REST API with Express
-MongoDB database integration
-Dockerized multi-container setup
-Nginx reverse proxy
-Automated CI/CD pipeline
-Deployment on AWS EC2
+- REST API with Express
+- MongoDB database integration
+- Dockerized multi-container setup
+- Nginx reverse proxy
+- Automated CI/CD pipeline
+- Deployment on AWS EC2
 
 # 📦 Run Locally
 
@@ -33,10 +33,9 @@ http://localhost:3000
 
 # 🚀 CI/CD Pipeline
 
-Build Docker image
-Push image to DockerHub
-Deploy application to EC2 using SSH
+- Build Docker image
+- Push image to DockerHub
+- Deploy application to EC2 using SSH
 
 # 📌 Author
-
 Aman Ullah
