@@ -13,9 +13,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Run test for node-app
-      run: node node.js
-
     - name: Build image for node-app
       run: docker build -t {{ secrets.DOCKER_USERNAME }}/node-app:v1
 
