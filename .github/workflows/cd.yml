@@ -2,7 +2,7 @@ name: Deploying the node-app on EC2
 
 on: 
   push:
-    branch:
+    branches:
       - main
 
 jobs:
