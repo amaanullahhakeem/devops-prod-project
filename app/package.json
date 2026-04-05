@@ -1,0 +1,13 @@
+{
+  "name": "devops-node-app",
+  "version": "1.0.0",
+  "description": "DevOps Project App by Aman Ullah",
+  "main": "server.js",
+  "scripts": {
+    "start": "node node.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
+}
