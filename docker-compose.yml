@@ -12,7 +12,7 @@ services:
       - ./nginx/nginx.conf:/etc/nginx/nginx.conf
 
   app:
-    build: app/ .
+    build: ./app
     container_name: node-app
     depends_on:
       - mongo
