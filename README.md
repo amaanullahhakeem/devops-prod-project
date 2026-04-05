@@ -6,13 +6,13 @@ This project is a simple Node.js application built to demonstrate a complete Dev
 
 # 🛠 Tech Stack
 
-Node.js (Express): Used to build the backend REST API
-MongoDB: Used as a NoSQL database to store application data
-Docker: Used to containerize the application for consistent environments
-Docker Compose: Used to run multi-container applications easily
-Nginx: Used as a reverse proxy to handle incoming traffic
-GitHub Actions: Used to automate CI/CD pipeline (build & deploy)
-AWS EC2: Used to host and run the application in the cloud
+- Node.js (Express): Used to build the backend REST API
+- MongoDB: Used as a NoSQL database to store application data
+- Docker: Used to containerize the application for consistent environments
+- Docker Compose: Used to run multi-container applications easily
+- Nginx: Used as a reverse proxy to handle incoming traffic
+- GitHub Actions: Used to automate CI/CD pipeline (build & deploy)
+- AWS EC2: Used to host and run the application in the cloud
 
 # ⚙️ Features
 
