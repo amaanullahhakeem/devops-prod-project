@@ -29,7 +29,7 @@ docker compose up --build -d
 
 # 🌐 Access Application
 
-http://localhost:3000
+http://localhost:80
 
 # 🚀 CI/CD Pipeline
 
